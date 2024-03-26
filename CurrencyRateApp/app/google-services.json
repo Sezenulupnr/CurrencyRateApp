@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721976181289",
+    "project_id": "trader-project-d0bf7",
+    "storage_bucket": "trader-project-d0bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721976181289:android:d0dabc036592ae12251238",
+        "android_client_info": {
+          "package_name": "com.example.trader_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmnGvtZ4L441fsjOFLS6PtGuHUY1t_uZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
